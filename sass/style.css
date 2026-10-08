@@ -1,0 +1,111 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+}
+
+nav {
+  background-color: #f44336;
+  box-shadow: 0.5px 0.5px 5px rgb(88, 88, 88);
+}
+nav div a {
+  color: #f1f1f1 !important;
+}
+nav div a:hover {
+  background-color: #f1f1f1;
+  color: #000000 !important;
+}
+
+header {
+  background-color: #f44336;
+  padding: 50px;
+}
+header h1 {
+  color: #f1f1f1;
+  text-align: center;
+  margin-top: 50px;
+  font-size: 65px;
+}
+header p {
+  text-align: center;
+  color: #f1f1f1;
+  font-size: 25px;
+  margin-top: 30px;
+}
+header a {
+  display: block;
+  margin: auto;
+  margin-top: 40px;
+  color: #f1f1f1;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  width: 150px;
+  background-color: #000000;
+  text-align: center;
+  text-decoration: none;
+  margin-bottom: 95px;
+  font-size: 18px;
+}
+header a:hover {
+  background-color: #aaa;
+  color: #000000;
+}
+
+#paragraf1 article {
+  padding-top: 80px;
+  padding-left: 140px;
+}
+#paragraf1 img {
+  padding: 100px;
+}
+#paragraf1 h1 {
+  padding-bottom: 40px;
+}
+#paragraf1 p {
+  padding-top: 40px;
+  color: #636363;
+}
+
+#paragraf2 {
+  background-color: #f0f0f0;
+}
+#paragraf2 article {
+  padding-top: 80px;
+  padding-left: 70px;
+  padding-right: 70px;
+}
+#paragraf2 img {
+  padding: 100px;
+}
+#paragraf2 h1 {
+  padding-bottom: 40px;
+}
+#paragraf2 p {
+  padding-top: 40px;
+  color: #636363;
+}
+
+#section2 {
+  background-color: #e7e7e7;
+}
+
+#img2 {
+  margin-left: 180px;
+  margin-top: 150px;
+}
+
+#footer-secondry {
+  background-color: #656565;
+  padding: 80px;
+  text-align: center;
+  color: aliceblue;
+  font-size: 25px;
+}
+
+footer {
+  padding: 110px;
+  text-align: center;
+}/*# sourceMappingURL=style.css.map */
